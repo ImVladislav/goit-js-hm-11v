@@ -47,6 +47,7 @@ export default class PixabayAPI {
     }
   }
 
+  
   resetPage() {
     this.page = 1;
   }
